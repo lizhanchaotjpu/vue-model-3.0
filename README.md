@@ -14,10 +14,17 @@ npm run serve
 ```
 npm run build
 ```
-
 ### Lints and fixes files
 ```
 npm run lint
+```
+### Upload the built code to the server
+```
+npm run upload
+```
+### Publishing code to the server
+```
+npm run deploy
 ```
 
 ### Eslint-Rules
